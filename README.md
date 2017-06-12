@@ -23,9 +23,8 @@ How to Use
 ----------
 Run pathwayCRISPR.py with the command-line arguments to get the sgRNAs associated with a biological pathway:
 python pathwayCRISPR.py -l LENGTH_OF_SGRNA -p BIOLOGICAL_PATHWAY_NAME
-
--l : length of sgRNA, from 17 to 22 inclusive
--p : name of biological pathway
+* -l : length of sgRNA, from 17 to 22 inclusive
+* -p : name of biological pathway
 
 To generate the list of biological pathways to choose from:
 python pathwayCRISPR.py -lp
