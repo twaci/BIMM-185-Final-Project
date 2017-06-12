@@ -10,7 +10,7 @@ This tool requires the following:
 * Python
 * Biopython (for use of Entrez)
 
-Files:
+Files
 ------
 * ecoli_**mers.txt: Text files containing all the unique k-mers (of length 17-22) in the reference E. coli genome.
 * ecoli_pathways.txt: Text file containing E. coli biological pathways and their corresponding genes.
