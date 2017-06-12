@@ -1,3 +1,4 @@
+# Generates unique k-mers of user-inputted length in reference E. coli genome.
 def KmerCount(file, kv):
 
     infile = open(file,'r')
